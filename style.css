@@ -33,14 +33,14 @@ h2{
    
 }
 .content{
-     margin: 18% 420px 10px 90px;
+    width: 70%;
+    margin: 18% 420px 10px 90px;
     background-color: rgba(0, 0, 0, 0.2);;
     display: grid;
     place-items: center;
     color: #C5C7BC;
-  font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
     border-radius: 5px;
- 
 }
 
 .content:hover{
